@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @princy338
+- 👋 Hi, I’m @Agni zion princy
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning .Machine learning..
 - 💞️ I’m looking to collaborate on mncs...
